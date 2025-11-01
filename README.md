@@ -6,9 +6,12 @@ Download directly via the raw URL:
  ## Main interface
 ![mian_interface](main.png)
 
- ## ①Workspace
+ ## ②Control interface: Workspace
 ![workspace](workspace.png)
 
-## ②Transition_potential
+## ②Control interface: Transition_potential
 ![transition_potential](transition_potential.png)
+
+## ②Control interface: Land information
+![land_information](land_information.png)
 
