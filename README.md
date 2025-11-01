@@ -3,7 +3,7 @@ LAND-System-Cellular-Automata-model-for-Potential-Effects-Model
 Download directly via the raw URL:  
   [LANDSCAPE-F.exe](https://github.com/AheCY/LAND-System-Cellular-Automata-model-for-Potential-Effects-Model/releases/download/V2.0/LANDSCAPE-F.exe)
 ## User commands
-Porject->
+Porject
        -> New 
        -> workspace ->transition potential -> land information -> demand
        -> Run
